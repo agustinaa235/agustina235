@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=solfonte&show_icons=true&theme=dracula)
+![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustina235&show_icons=true&theme=dracula)
 
 📫 How to reach me: 
 - [Gmail](mailto:agustinaa.segura@gmail.com)
