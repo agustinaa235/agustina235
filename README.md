@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me!
+- 👩‍💻 I’m a Computer Engineering student at [FIUBA](http://www.fi.uba.ar/)
+- 😄 Pronouns: she/her
+- 📫 Email me at [agustinaa.segura@gmail.com](mailto:agustinaa.segura@gmail.com)
+
+
 ![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustina235&show_icons=true&theme=dracula)
 
-📫 How to reach me: 
-- [Gmail](mailto:agustinaa.segura@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
