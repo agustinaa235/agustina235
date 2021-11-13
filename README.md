@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&style=flat&logo=intellij-idea&logoColor=eb355e)&nbsp;
 
-![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustina235&show_icons=true&theme=dracula)
+![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinaa235&show_icons=true&theme=dracula)
