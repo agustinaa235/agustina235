@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ### About Me!
 - 👩‍💻 I’m a Computer Engineering student at [FIUBA](http://www.fi.uba.ar/)
 - 😄 Pronouns: she/her
-- 📫 Email me at [agustinaa.segura@gmail.com](mailto:agustinaa.segura@gmail.com)
+- 📫 Find me at
+    - Email me at [agustinaa.segura@gmail.com](mailto:agustinaa.segura@gmail.com)
+    - Linkedin [agustina segura](https://www.linkedin.com/in/agustina-segura)
+ 
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
